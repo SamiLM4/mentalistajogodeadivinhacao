@@ -1,27 +1,28 @@
 body {
   font-family: "Roboto Mono", monospace;
   min-height: 600px;
-  background-image: url("http://s.glbimg.com/po/tt/f/original/2011/09/01/lg-pentouch-plasma-television-ifa-0.jpg578-blah.jpg");
+  background-image: url("https://media.istockphoto.com/photos/arcade-game-with-illuminated-screen-picture-id186422923?s=612x612");
   background-color: #000000;
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
-  color: #ffffff;
+  color: ##000000;
 }
 
 .container {
   text-align: center;
   padding: 20px;
   height: 100vh;
+  color: #000000;
 }
 
 .page-title {
-  color: #ffffff;
+  color: #000000;
   margin: 0 0 5px;
 }
 
 .page-subtitle {
-  color: #ffffff;
+  color: #000000;
   margin-top: 16px;
 }
 
@@ -34,6 +35,7 @@ body {
   position: absolute;
   top: 10px;
   right: 10px;
+  color: #000000;
 }
 
 @media (max-height: 500px) {
@@ -56,7 +58,8 @@ button {
 }
 
 .resultado {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   margin-top: 16px;
 }
+
