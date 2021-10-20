@@ -11,7 +11,7 @@ function Chutar() {
     console.log("você deve digitar um número de 0 a 10");
   } else {
     elementoResultado.innerHTML =
-      "você deve chutar um número entre0 e 10, o número secreto era: " + numeroSecreto;
+      "você deve chutar um número entre 0 e 10, o número secreto era: " + numeroSecreto;
     console.log("errou");
   }
 
